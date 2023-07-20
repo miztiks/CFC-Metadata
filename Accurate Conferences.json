@@ -7,7 +7,7 @@
     "MWC": "PAC",
     "AAC": "GWC"
   },
-  "baseYear": 2014,
+  "baseYear": 2010,
   "relegationRoutes": {
     "SEC": "SUN",
     "B10": "MAC",
@@ -76,7 +76,7 @@
             "hexColor": "#BA0C2F"
         },
         {
-            "name": "Louisiana State",
+            "name": "LSU",
             "state": "Louisiana",
             "abbreviation": "LSU",
             "rival": ["TAMU"],
@@ -299,7 +299,7 @@
                   "hexColor": "#7BAFD4"
               },
               {
-                  "name": "North Carolina State",
+                  "name": "NC State",
                   "state": "North Carolina",
                   "abbreviation": "NCST",
                   "rival": ["WFU"],
@@ -405,7 +405,7 @@
                   "hexColor": "#FF7300"
               },
               {
-                  "name": "Texas Christian",
+                  "name": "TCU",
                   "state": "Texas",
                   "abbreviation": "TCU",
                   "rival": ["BAY"],
@@ -484,7 +484,7 @@
                 "hexColor": "#8C1515"
               },
               {
-                "name": "UC Los Angeles",
+                "name": "UCLA",
                 "state": "California",
                 "abbreviation": "UCLA",
                 "rival": ["USC"],
@@ -502,7 +502,7 @@
                 "hexColor": "#CC0000"
               },
               {
-                "name": "South California",
+                "name": "USC",
                 "state": "California",
                 "abbreviation": "USC",
                 "rival": ["USCLA"],
@@ -563,7 +563,7 @@
                 "hexColor": "#8C1D40"
               },
               {
-                "name": "Brigham Young",
+                "name": "BYU",
                 "state": "Utah",
                 "abbreviation": "BYU",
                 "rival": ["AIRF"],
